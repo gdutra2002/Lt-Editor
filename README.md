@@ -3,7 +3,7 @@
 ## Description:  
 * The Lt-Editor app is a browser based text editor that provides an interface between the keyboard, the browser, and your thoughts, to and indexed database. This will provide functionality with or without an internet connection to store locally with the functionality of browser  native usage.
 * This is an open source project that may find usage integrated in other apps as well as being a stand alone application. As a progressive web application, heroku is used to as a familiar point of access.
-* Having a text editor open for notation is a common usage when doing any work in the digital world, having a 3rd party program such as Lt-Editor makes jotting notes and ideasa breeze.
+* Having a text editor open for notation is a common usage when doing any work in the digital world, having a 3rd party program such as Lt-Editor makes jotting notes and ideas a breeze.
 * Service workers do the catching, IndexedDB create objects to store, babel to async / wait, progressive web app, webpack, with or without a network connection, are some of the features.
 
 
